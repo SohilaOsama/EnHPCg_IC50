@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+xgboost
+lightgbm
+matplotlib
+rdkit
+py3Dmol
+pillow
+rdkit-pypi
