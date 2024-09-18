@@ -10,3 +10,4 @@ rdkit
 py3Dmol
 pillow
 rdkit-pypi
+tensorflow
